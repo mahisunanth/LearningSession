@@ -10,7 +10,7 @@ public class Stack1 {
 	 stack.push("Mahi");
 	 stack.push("Sunanth");
 	 stack.push("mani");
-	 stack.push("ramu");
+	 stack.push("ramesh");
 	 stack.push("naveen");
 	 
 	 stack.pop();

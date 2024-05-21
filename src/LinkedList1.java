@@ -7,10 +7,10 @@ public class LinkedList1 {
 		 
 		LinkedList<String> list=new LinkedList <String>();
 		
-		list.add("CSK");
+		list.add("Sunanth");
 		list.add("mahii");
 		list.add("CSK");
-		list.add("Sunny");
+		list.add("Sunday");
 		
 		Iterator<String> itr=list.iterator();
 		

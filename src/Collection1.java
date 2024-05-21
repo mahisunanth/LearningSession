@@ -9,7 +9,7 @@ public class Collection1 {
 		
 		list.add("Mahi");
 		list.add("Dhoni");
-		list.add("Sunanth");
+		list.add("Sai Sunanth");
 		
 		Iterator itr=list.iterator();
 		

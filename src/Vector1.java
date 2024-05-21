@@ -9,7 +9,7 @@ public class Vector1 {
 		v.add("sunanth");
 		v.add("mahi");
 		v.add("dhoni");
-		v.add("mahendra");
+		v.add("mahender");
 		
 		Iterator<String> itr=v.iterator();
 		
