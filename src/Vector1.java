@@ -10,7 +10,7 @@ public class Vector1 {
 		v.add("mahi");
 		v.add("dhoni");
 		v.add("mahender");
-		
+		v.add("abcd");
 		Iterator<String> itr=v.iterator();
 		
 		while(itr.hasNext()) {
